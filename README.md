@@ -1,2 +1,3 @@
-# android_device_motorola_fogos-6.1
-fogos (moto g34 5G) device tree - blair 6.1 port (standalone; GitHub blocks a second fork of the LineageOS fogos network)
+Device tree for the Motorola moto g34
+
+Information about the device, build and install instructions can be found [here](http://wiki.lineageos.org/devices/fogos/)
